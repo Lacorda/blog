@@ -2,7 +2,7 @@
 module.exports = [
   { text: '首页', link: '/' },
   {
-    text: '基础|博文',
+    text: '基础博文',
     link: '/web/', //目录页链接，此处link是vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
       {
@@ -19,7 +19,7 @@ module.exports = [
     ],
   },
   {
-    text: '算法|试题',
+    text: '算法试题',
     link: '/algorithm/',
     items: [
         { text: '排序算法', link: '/pages/7d4d69/' },
@@ -28,7 +28,7 @@ module.exports = [
     ],
   },
   {
-    text: '插件|框架',
+    text: '插件框架',
     link: '/services/',
     items: [
         // { text: 'Vue', link: '/pages/a0057b/' },
@@ -36,7 +36,7 @@ module.exports = [
     ],
   },
   {
-    text: '项目|工具',
+    text: '项目工具',
     link: '/tools/',
     items: [
       { text: '项目笔记', link: '/pages/3f852b/' },
