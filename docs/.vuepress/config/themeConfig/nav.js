@@ -13,7 +13,6 @@ module.exports = [
           { text: 'HTML与CSS', link: '/pages/0135b8/' },
           { text: 'JS设计模式', link: '/pages/e1006e/' },
           { text: 'Web API', link: '/pages/5b3b9e/' },
-        //   { text: '性能', link: '/pages/5b3b9e/' },
         ],
       },
     ],
@@ -23,7 +22,7 @@ module.exports = [
     link: '/algorithm/',
     items: [
         { text: '排序算法', link: '/pages/7d4d69/' },
-        // { text: 'LeetCode', link: '/pages/a0057b/' },
+        { text: 'LeetCode', link: '/pages/dfe87b/' },
         { text: '算法面试题解', link: '/pages/a0057b/' },
     ],
   },
@@ -31,8 +30,7 @@ module.exports = [
     text: '插件框架',
     link: '/services/',
     items: [
-        // { text: 'Vue', link: '/pages/a0057b/' },
-        // { text: 'React', link: '/pages/a0057b/' },
+        { text: 'Vue', link: '/pages/28af0c/' },
     ],
   },
   {
